@@ -1,0 +1,8 @@
+.navbar-inverse my_nav_bar{
+    position: sticky;
+}
+body{
+    color: lightcyan;
+    text-align: center;
+    font-family: 'ABeeZee', sans-serif;
+}
