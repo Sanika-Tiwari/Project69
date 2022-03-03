@@ -1,5 +1,5 @@
 .navbar-inverse my_nav_bar{
-    position: sticky;
+    position: absolute;
 }
 body{
     color: lightcyan;
